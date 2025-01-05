@@ -27,6 +27,12 @@ O jogo foi desenvolvido para ser simples, divertido e interativo, oferecendo uma
 ![JokenPo](https://github.com/user-attachments/assets/6208501a-67e0-4d17-b57a-ff69cd303f7a)
 
 
+## 💡 Próximos Passos
+Adicionar um contador de vitórias e derrotas.
+Criar uma versão multiplayer para jogar contra outros usuários.
+Melhorar a animação das mãos e adicionar sons para maior interatividade.
+
+
 ## 🌐 Deploy
 <div align="center"> 
 <a href="https://felipeaz01.github.io/jokenp-/">
